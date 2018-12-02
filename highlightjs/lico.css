@@ -1,0 +1,33 @@
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #f4f4f4;
+  color: #3333333;
+}
+
+.hljs-keyword {
+  color: #b22222;
+}
+
+.hljs-built_in,
+.hljs-class {
+  color: #018506;
+}
+
+.hljs-number,
+.hljs-subst {
+  color: #009aa1;
+}
+
+.hljs-regexp {
+  color: #882dcf;
+}
+
+.hljs-string {
+  color: #cea100;
+}
+
+.hljs-comment {
+  color: #707070;
+}
